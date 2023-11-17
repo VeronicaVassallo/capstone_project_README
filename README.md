@@ -14,4 +14,4 @@ password: 1234
 
 E' possibile effettuare una nuova registrazione.
 
-I referenti hanno accesso alla schermata di backoffice.
+Solo i referenti hanno accesso alla schermata di backoffice.
